@@ -1,0 +1,24 @@
+{
+  "name": "italokairon.com",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Meu site pessoal e portifólio.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node src/index.js --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/likeamusa/italokairon.com.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/likeamusa/italokairon.com/issues"
+  },
+  "homepage": "https://github.com/likeamusa/italokairon.com#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
