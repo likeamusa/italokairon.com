@@ -15,9 +15,9 @@ Atualmente, estou desenvolvendo o **italokairon.com**, um espaço onde compartil
 - Aprendendo novas tecnologias e aprimorando minhas habilidades
 
 ## Como me encontrar
-- **GitHub**: [github.com/seu-usuario](https://github.com/seu-usuario)
-- **LinkedIn**: [linkedin.com/in/seu-usuario](https://linkedin.com/in/seu-usuario)
-- **Email**: seu-email@example.com
+- **GitHub**: [github.com/likeamusa](https://github.com/likeamusa)
+- **LinkedIn**: [linkedin.com/italoferreira](https://www.linkedin.com/in/%C3%ADtalo-ferreira-307469246/)
+- **Email**: italocentrismo@gmail.com
 
 Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos e colaborar.
 
