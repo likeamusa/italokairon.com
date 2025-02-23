@@ -1,5 +1,5 @@
 
-fetch('/api/posts')
+fetch('https://api.github.com/repos/likeamusa/blog/contents/posts')
   .then(response => response.json())
   .then(posts => {
     const allPosts = document.querySelector('#all-posts');
@@ -11,9 +11,9 @@ fetch('/api/posts')
       postElement.innerHTML = `
         <a
         class="cursor-pointer hover:underline hover:text-blue-500 text-xl"
-        href="${post.link}"
-        >${post.title.replace('_', ' ')}</a><br/>
-        <small>by likeamusa, ${new Date().toLocaleDateString()}</small>
+        href="posts/${post.name.replace('.md', '')}"
+        >${post.name.replace('.md', '')}</a><br/>
+        <small>by likeamusa</small>
       `;
       allPosts.appendChild(postElement);
     });
