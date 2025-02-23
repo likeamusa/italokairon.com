@@ -1,16 +1,17 @@
 # italokairon.com
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js">
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</div>
 
 ## Descrição
 
 Sabe aqueles projetos que você sempre quer fazer, mas nunca tem tempo? Este é a junção de todos os meus. Alguns já estão implementados, outros ainda estarão, seja no backend ou no frontend. Além disso, outros projetos independentes também serão publicados aqui. A ideia principal é criar algo simples, aprimorá-lo e escalá-lo com o tempo. Para registrar esse processo, criei a seção de "posts", onde documentarei toda a evolução.
-
-<!-- printscreenshot ./image.png -->
-[![printscreenshot](./image.png)](https://italokairon.com)
 
 ## Tecnologias
 
