@@ -1,29 +1,28 @@
-# 👋 Olá! Eu sou o Ítalo 
+# italokairon.com
 
-## 🚀 Sobre mim
-Sou um desenvolvedor apaixonado por tecnologia e soluções inovadoras. Tenho experiência com **Node.js, React, Next.js, HTML e SQL**, e estou sempre buscando aprender e evoluir. Atualmente, estou trabalhando no desenvolvimento de um **MVP para automação de processos empresariais** e também estudando linguagens como **inglês, espanhol, alemão e chinês**.
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 
-Minha experiência anterior foi na área de **operações de almoxarifado**, mas decidi migrar para a tecnologia para explorar novas oportunidades. Tenho um grande interesse por **empreendedorismo** e estou sempre buscando formas de criar soluções eficientes para o mercado.
+## Descrição
 
----
+Sabe aqueles projetos que você sempre quer fazer, mas nunca tem tempo? Este é a junção de todos os meus. Alguns já estão implementados, outros ainda estarão, seja no backend ou no frontend. Além disso, outros projetos independentes também serão publicados aqui. A ideia principal é criar algo simples, aprimorá-lo e escalá-lo com o tempo. Para registrar esse processo, criei a seção de "posts", onde documentarei toda a evolução.
 
-## 🌐 Sobre o projeto italokairon.com
-Atualmente, estou desenvolvendo o **[italokairon.com](https://italokairon.com)**, um espaço onde compartilho meus projetos, aprendizados e soluções tecnológicas. Esse site serve como um **portfólio interativo**, onde documentarei meus avanços, publicarei artigos técnicos e apresentarei as ferramentas que venho criando. Se você tem interesse em **tecnologia, empreendedorismo e desenvolvimento de software**, fique à vontade para explorar!
+<!-- printscreenshot ./image.png -->
+[![printscreenshot](./image.png)](https://italokairon.com)
 
----
+## Tecnologias
 
-## 📌 O que estou fazendo agora
-- 🛠 Criando uma **macro para importação de dados financeiros via OFX para Excel**
-- 📊 Trabalhando em um **MVP de um ERP para gestão de projetos**
-- 🌍 Mantendo e aprimorando o **italokairon.com**
-- 📚 Aprendendo novas tecnologias e aprimorando minhas habilidades
+- **Node.js**: Ambiente de execução JavaScript.
+- **Express**: Framework web minimalista para Node.js.
+- **Docker**: Plataforma para desenvolvimento, envio e execução de aplicativos em contêineres.
+- **Markdown**: Linguagem de marcação para documentação e criação dos posts.
 
----
+## Contribuição
 
-## 📬 Como me encontrar
-- **🐙 GitHub**: [github.com/likeamusa](https://github.com/likeamusa)
-- **💼 LinkedIn**: [linkedin.com/in/italoferreira](https://www.linkedin.com/in/%C3%ADtalo-ferreira-307469246/)
-- **✉️ Email**: [italocentrismo@gmail.com](mailto:italocentrismo@gmail.com)
+Se você tem sugestões ou melhorias, sinta-se à vontade para contribuir! Envie um pull request ou abra uma issue no repositório.
 
-Seja bem-vindo ao meu perfil! Sinta-se à vontade para explorar meus projetos e colaborar. 🚀
+## Licença
 
+Este projeto está sob a licença MIT.
