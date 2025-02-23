@@ -1,0 +1,1 @@
+export { postsRouter } from './posts.api.js';

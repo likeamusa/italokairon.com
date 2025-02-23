@@ -1,20 +1,25 @@
 <!DOCTYPE html>
-<html lang="pt">
-
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <script src="https://unpkg.com/@tailwindcss/browser@4"></script>
+    <script src="https://cdn.jsdelivr.net/npm/showdown@2.1.0/dist/showdown.min.js" defer></script>
     <script src="/js/components.js" defer></script>
+    <script src="/js/post.js" defer></script>
     <title>Blog</title>
 </head>
 
 <body class="grid grid-rows-[auto_1fr_auto] min-h-screen">
     <div id="header-placeholder"></div>
-    <section class="container mx-auto">
-        <h1>Blog</h1>
-    </section>
+    <!-- All posts will be here -->
+     <section class="flex flex-col items-center">
+        <div id="post-content"
+        class="m-3">
+        ></div>
+                
+        </div>
+     </section>
     <div id="footer-placeholder"></div>
 </body>
-
 </html>
