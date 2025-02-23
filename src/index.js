@@ -13,6 +13,16 @@ app.get('/', (req, res) => {
   res.sendFile(__dirname + '/public/index.html');
 });
 
+app.get('/blog', (req, res) => {
+  res.sendFile(__dirname + '/public/blog.html');
+});
+
+app.get('/projects', (req, res) => {
+  res.sendFile(__dirname + '/public/projects.html');
+});
+
+
+
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
 });
