@@ -29,6 +29,15 @@ app.get('/', (req, res) => {
   res.sendFile(__dirname + '/public/index.html');
 });
 
+// about
+app.get('/about', (req, res) => {
+  res.sendFile(__dirname + '/public/readme.html');
+});
+
+// contact
+app.get('/contact', (req, res) => {
+  res.sendFile(__dirname + '/public/index.html');
+});
 
 app.listen(port, () => {
   console.log(`Server is running on http://localhost:${port}`);
