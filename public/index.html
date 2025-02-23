@@ -17,24 +17,34 @@
     <link
         href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap"
         rel="stylesheet">
+        
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@5.8.1/github-markdown.min.css">
     <title>Ítalo Kairon</title>
     <style>
         * {
             font-family: 'Poppins', sans-serif;
+            
         }
 
-        :root {
-            color-scheme: light dark;
+        .markdown-body {
+            box-sizing: border-box;
+            min-width: 200px;
+            max-width: 980px;
+            margin: 0 auto;
+            padding: 45px;
+            background-color: transparent;
+            color: #2b2d42;
         }
+
     </style>
 
 </head>
 
 <body
-    class="grid grid-rows-[auto_1fr_auto] min-h-screen transition-colors duration-200 bg-white dark:bg-gray-900 dark:text-white">
+    class="grid grid-rows-[auto_1fr_auto] min-h-screen transition-colors duration-200 bg-white">
     <div id="header-placeholder"></div>
     <main class="container mx-auto">
-        <div class="m-4" id="about">
+        <div class="m-4 markdown-body" id="about">
         </div>
     </main>
     <div id="footer-placeholder"></div>
