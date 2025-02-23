@@ -1,6 +1,6 @@
 // https://github.com/likeamusa/italokairon.com
 // Fetch and render README.md content
-fetch('https://raw.githubusercontent.com/likeamusa/italokairon.com/main/README.md', {
+fetch('https://raw.githubusercontent.com/likeamusa/likeamusa/main/README.md', {
   method: 'GET',
   headers: {
     'Content-Type': 'text/plain',
